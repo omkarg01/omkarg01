@@ -66,6 +66,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarg01&show_icons=true&locale=en&layout=compact" alt="omkarg01" /></p>
 <br>
+<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=omkarg01&show_icons=true&locale=en" alt="omkarg01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkarg01&" alt="omkarg01" /></p>

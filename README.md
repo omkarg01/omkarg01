@@ -3,19 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **gg**
 
-- 🌱 I’m currently learning **grgr**
-
-- 🤝 I’m looking for help with **grgrg**
-
-- 👨‍💻 All of my projects are available at [gr](gr)
-
-- 📝 I regularly write articles on [grg](grg)
-
-- 💬 Ask me about **Graphql API's**
-
-- 📄 Know about my experiences [grg](grg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

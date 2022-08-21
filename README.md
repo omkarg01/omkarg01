@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node** to become a Fullstack Developer
 
-- 🔭 I’m currently looking on **freelance jobs**
+- 🔭 I’m currently looking for **freelance jobs**
 
 
 <h3 align="left">Connect with me:</h3>

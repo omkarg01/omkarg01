@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Node + React Project**
 
-- 🌱 I’m currently learning **Node** to become a Fullstack Developer
+- 🌱 I also like problem solving and DSA.
 
 - 🔭 I’m currently looking for **freelance jobs**
 
